@@ -1,0 +1,15 @@
+{
+    "account": ".header__container > .header__id",
+    "shop": "[href='/shop']",
+    "avatars": ".available > button",
+    "card_number": ".pay__payform-v2 > :nth-child(2) > .pay_base-input-v2",
+    "date": ":nth-child(1) > .pay_base-input-v2",
+    "cvv": ".pay-inputs-box > :nth-child(2) > .pay_base-input-v2",
+     "card_name": ".pay__input-box-last-of > .pay_base-input-v2",
+     "pay": ".pay-btn",
+     "SMS": "#cardnumber",
+     "btn_sms": ".payment__submit-button",
+     "payment__adv": ".payment__adv",
+     "payment_success": ".payment__font-for-success",
+     "my_avatar": ".feature-empty"
+}
